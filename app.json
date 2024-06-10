@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MDV2",
+  "name":"BMW-X5MD",
   "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾  𝑴𝑫",
+      "value":"BMW-XMD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
       "required":false
        
      },
@@ -103,7 +103,7 @@
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "yes",
-    "required": false
+        "required": false
   }
   },
 
@@ -116,7 +116,8 @@
 
   "addons":[
     {
-      "plan":"heroku-postgresql"
+      "plan":"heroku-postgresql:essential-0"
     }
   ]
 }
+
