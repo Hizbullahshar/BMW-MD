@@ -16,15 +16,10 @@
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SCAN SESSION </h1>
- 
-
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
+ <h1 align="center">  SESSION SITE 
 
 
-  
- [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
-
+<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
@@ -71,14 +66,6 @@ HOW TO REACH THE OWNER?
 
   ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE)***
 
-
-
-
-
-
-
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
 
 
 
